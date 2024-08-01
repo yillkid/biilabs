@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/biilabs/static/css/main.e6c13ad2.css",
+    "main.js": "/biilabs/static/js/main.19a15077.js",
+    "static/js/453.815728ae.chunk.js": "/biilabs/static/js/453.815728ae.chunk.js",
+    "index.html": "/biilabs/index.html",
+    "main.e6c13ad2.css.map": "/biilabs/static/css/main.e6c13ad2.css.map",
+    "main.19a15077.js.map": "/biilabs/static/js/main.19a15077.js.map",
+    "453.815728ae.chunk.js.map": "/biilabs/static/js/453.815728ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.19a15077.js"
+  ]
+}
